@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Teisendus</string>
+    <string name="ml">Teisenda Miilidesse</string>
+    <string name="clear">Kustuta</string>
+    <string name="ok">Teisenda</string>
+    <string name="km">Teisenda Kilomeetritesse</string>
+    <string name="ent">Siseta number</string>
+</resources>
